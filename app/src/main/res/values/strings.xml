@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PEMMOB_PROJECTAKHIR</string>
+    <string name="landing_absensi">Absensi</string>
+    <string name="landing">Cape telat absen kuliah?  Ngga bisa \n ikut UAS gara-gara  nilai absen \n kurang? Yuk mulai   perbaiki \nkebiasaan absenmu \n dengan kami!</string>
+    <string name="login">Login</string>
+    <string name="silahkan_login">Silahkan login menggunakan akun \n SIAM Anda</string>
+    <string name="nim">NIM</string>
+    <string name="password">Password</string>
 </resources>
