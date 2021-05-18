@@ -34,7 +34,6 @@
         android:layout_marginLeft="13dp"
         android:layout_marginRight="13dp"
         android:background="@drawable/bg_layout_white"
-
         android:orientation="vertical"
         android:paddingTop="24dp"
         android:paddingBottom="37dp"
@@ -82,7 +81,7 @@
             android:gravity="center">
 
             <EditText
-                android:id="@+id/edit_text_nim"
+                android:id="@+id/editText_login_nim"
                 android:layout_width="284dp"
                 android:layout_height="50dp"
                 android:background="@drawable/bg_input_edit"
@@ -111,7 +110,7 @@
             android:gravity="center">
 
             <EditText
-                android:id="@+id/edit_text_password"
+                android:id="@+id/editText_login_password"
                 android:layout_width="284dp"
                 android:layout_height="50dp"
                 android:background="@drawable/bg_input_edit"
@@ -131,7 +130,7 @@
             android:gravity="center">
 
             <Button
-                android:id="@+id/btn_mulai_sekarang"
+                android:id="@+id/button_main_login"
                 android:layout_width="164dp"
                 android:layout_height="wrap_content"
                 android:background="@drawable/bg_button_primary"
