@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.PEMMOB_PROJECTAKHIR" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.PEMMOB_PROJECTAKHIR" parent="Theme.MaterialComponents.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#006AFF</item>
         <item name="colorPrimaryVariant">#006AFF</item>
@@ -13,4 +13,13 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.PEMMOB_PROJECTAKHIR.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.PEMMOB_PROJECTAKHIR.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.PEMMOB_PROJECTAKHIR.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

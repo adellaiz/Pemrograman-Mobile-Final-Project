@@ -16,5 +16,7 @@
     <color name="secondary">#FFD79B</color>
     <color name="error">#EA5F5F</color>
     <color name="success">#00BA88</color>
+    <color name="praktikum">#D6E9ED</color>
+    <color name="kelas">#D6EDE2</color>
 
 </resources>

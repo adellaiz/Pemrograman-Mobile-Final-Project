@@ -7,4 +7,32 @@
     <string name="silahkan_login">Silahkan login menggunakan akun \n SIAM Anda</string>
     <string name="nim">NIM</string>
     <string name="password">Password</string>
+    <string name="kuliah">Kuliah hari ini</string>
+    <string name="tanggal">Kamis, 13 Mei 2021</string>
+    <string name="matkul">Analisis dan Desain Sistem Informasi</string>
+    <string name="kelas">A</string>
+    <string name="jamkelas">15:20 - 17:49</string>
+    <string name="absensi">Absensi hari ini</string>
+    <string name="deadline">2021-05-19 00:00:00 WIB</string>
+    <string name="datadosen">Data Dosen</string>
+    <string name="dosen">Andi Reza Perdanakusuma, S.Kom., M.MT.</string>
+    <string name="deskripsikelas">Kelas : A</string>
+    <string name="email">andireza@gmail.com</string>
+
+    <string name="rekap">Rekap Absensi</string>
+    <string name="alpha">Alpha : 0</string>
+    <string name="izin">Izin : 0</string>
+    <string name="sakit">Sakit : 0</string>
+    <string name="prosentase">Prosentase : 89</string>
+
+    <string name="title_activity_left_menu">LeftMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>
